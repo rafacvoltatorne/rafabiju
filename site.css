@@ -1,3 +1,17 @@
 h1.cadastro{
 	margin-left: 45%;
 }
+
+body.fundo{
+	background-color: #FFE4E1;
+}
+
+div.container p{
+	font-size: 80px;
+	text-align: center;
+	margin-top: 30%
+	
+}
+nav.navbar{
+	background-color:#FFB6C1;
+}
