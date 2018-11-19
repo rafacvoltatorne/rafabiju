@@ -15,4 +15,15 @@ div.container p{
 nav.navbar{
 	background-color:#FFB6C1;
 }
+div.card{
+	margin-left: 180px;
+}
+div.card-text{
+	font-size: 15px;
+
+	 
+}
+body.home{
+	background-color: #FFE4E1;
+}
 
