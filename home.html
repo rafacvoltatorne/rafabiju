@@ -19,15 +19,22 @@
     <a class="navbar-brand" href="#"></a>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-        <li class="nav-item active">         
-          <a class="nav-link disabled" href="home.html">Home<span class="sr-only">(current)</span></a>
+        <li class="nav-item">         
+          <a class="nav-link text-dark" href="home.html">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="cadastro.html">Cadastro</a>
+          <a class="nav-link text-dark" href="cadastro.html">Cadastro</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="carrinho.html">DIY</a>
-        </li>
+        <div class="dropdown">
+          <a class="btn btn-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            DIY
+          </a>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+          </div>
+        </div>       
       </ul>
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Digite" aria-label="Search">
