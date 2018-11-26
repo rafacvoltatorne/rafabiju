@@ -29,4 +29,12 @@ body.home{
 .nav-link{
 	color: black;
 }
+h3.tituloaneis{
+	font-size: 35px;
+	color: #D02090;
+	text-align: center;
+}
+img.aneisfio{
+	margin-left: 5px;
+}
 
