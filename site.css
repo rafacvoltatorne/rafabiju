@@ -3,7 +3,7 @@ h1.cadastro{
 }
 
 body.fundo{
-	background-color: #FFE4E1;
+	background-color: #EEE9E9;
 }
 
 div.container p{
@@ -13,7 +13,7 @@ div.container p{
 	
 }
 nav.navbar{
-	background-color:#FFB6C1;
+	background-color:#A020F0;
 }
 div.card{
 	margin-left: 180px;
@@ -24,7 +24,7 @@ div.card-text{
 	 
 }
 body.home{
-	background-color: #FFE4E1;
+	background-color: #EEE9E9;
 }
 .nav-link{
 	color: black;
